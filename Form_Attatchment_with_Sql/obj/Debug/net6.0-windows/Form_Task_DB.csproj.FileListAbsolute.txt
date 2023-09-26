@@ -1,0 +1,48 @@
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.exe
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.deps.json
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.runtimeconfig.json
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.pdb
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.AssemblyReference.cache
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.Form1.resources
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.GenerateResource.cache
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.AssemblyInfoInputs.cache
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.AssemblyInfo.cs
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.CoreCompileInputs.cache
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.CopyComplete
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\refint\Form_Task_DB.dll
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.pdb
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.genruntimeconfig.cache
+E:\BSc Computer Engineering\semester5\database\Form_Task_DB\obj\Debug\net6.0-windows\ref\Form_Task_DB.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.exe
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.deps.json
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.runtimeconfig.json
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\Form_Task_DB.pdb
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.AssemblyReference.cache
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.Form1.resources
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.GenerateResource.cache
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.AssemblyInfoInputs.cache
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.AssemblyInfo.cs
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.CoreCompileInputs.cache
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.csproj.CopyComplete
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\refint\Form_Task_DB.dll
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.pdb
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\Form_Task_DB.genruntimeconfig.cache
+D:\Semesters Data\Semster 5\Lab\DB LABS\DB_Form_Task_1\Form_Task_DB\obj\Debug\net6.0-windows\ref\Form_Task_DB.dll
